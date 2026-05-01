@@ -1,9 +1,6 @@
 # HowTo: PS4 PKG Extraction Tool (Apple Silicon)
 
 ## English
-
-This HowTo explains how to use "PS4 PKG Extraction Tool (Apple Silicon)":
-
 ```text
 PS4 PKG Extraction Tool (Apple Silicon)
 ```
@@ -229,9 +226,6 @@ Check:
 ---
 
 ## Deutsch
-
-Dieses HowTo beschreibt die Verwendung von "PS4 PKG Extraction Tool (Apple Silicon)":
-
 ```text
 PS4 PKG Extraction Tool (Apple Silicon)
 ```
